@@ -2,6 +2,7 @@ WD-ProjectName
 └─ assets
 |   └─ Documents
 |   |   └─ Seatwork 2 : Wireframe
+|   |   └─ formal picture.jpg
 |   └─ css
 |   |   └─ style.css
 |   └─ img
